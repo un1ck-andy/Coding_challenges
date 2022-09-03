@@ -1,2 +1,2 @@
-# codewars
-Tracking my progress and solutions of codewars' katas.
+# Coding challenges 
+Tracking my progress and solutions of leetcode and codewars' katas.
